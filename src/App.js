@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         My first React App
+         Now i m in master branch
         </p>
         <a
           className="App-link"
